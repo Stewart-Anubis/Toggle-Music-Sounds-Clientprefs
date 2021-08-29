@@ -26,25 +26,25 @@
 
 	"ON"
 	{
-		"pt"		"Ligada"
+		"pt"		"Ligado"
 		"en"		"On"
 	}
 
 	"OFF"
 	{
-		"pt"		"Desligada"
+		"pt"		"Desligado"
 		"en"		"Off"
 	}
 
 	"C_ON"
 	{
-		"pt"		"{RED}Ligada."
+		"pt"		"{RED}Ligado."
 		"en"		"{RED}On."
 	}
 
 	"C_OFF"
 	{
-		"pt"		"{RED}Desligada."
+		"pt"		"{RED}Desligado."
 		"en"		"{RED}Off."
 	}
 
@@ -52,41 +52,6 @@
 	{
 		"pt"		"Volume do Mapa:"
 		"en"		"Music volume:"
-	}
-
-	"Porcento"
-	{
-		"en"	  	"%"
-	}
-
-	"v100"
-	{
-		"en"	  	"100%"
-	}
-
-	"v75"
-	{
-		"en"	  	"75%"
-	}
-
-	"v50"
-	{
-		"en"	  	"50%"
-	}
-
-	"v25"
-	{
-		"en"	  	"25%"
-	}
-
-	"v10"
-	{
-		"en"	  	"10%"
-	}
-
-	"v05"
-	{
-		"en"	  	"5%"
 	}
 
 	"CenterWeaponsSounds"
@@ -131,4 +96,9 @@
 		"en"		"{GREEN}[{BLUE}Toggle Sounds{GREEN}] {OLIVE}Map music is disabled, toggle music with {RED}!music{default}!"
 	}
 
+	"Cookie_Menu"
+	{
+		"pt"		"Map Music"
+		"en"		"Map Music"
+	}
 }
